@@ -1,0 +1,17 @@
+{
+  "name": "test-gmodelo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "invoke": "serverless invoke local -f search",
+    "deploy": "serverless deploy --stage dev --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serverless-offline": "^8.5.0",
+    "serverless-offline-python": "^3.22.3"
+  }
+}
