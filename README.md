@@ -127,7 +127,7 @@ _Elasticsearch.postman_collection.json_
 - Desde archivo .yml de serverless crear el endpoint de Elasticsearch.
 - En Elasticsearch, utilizar una instancia con mayor capacidad para una respuesta más eficiente.
 - Agregar desde API Gateway, un paso de autenticación para consultar la API creada.
-- Query de eslasticsearch, investigar respecto al score automático asignado por la misma herramienta y además incestigar más a fondo los tipos de querys posibles.
+- Query de eslasticsearch, investigar respecto al score automático asignado por la misma herramienta y además investigar más a fondo los tipos de querys posibles.
 
 
 ### Accesos para visualizar los servicios creados
