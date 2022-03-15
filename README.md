@@ -10,7 +10,7 @@ Contar con algun agente que nos permita hacer peticiones HTTPS. _Se sugiere el u
 
 | Método | Endpoint/Request | 
 | --- | --- | 
-| GET | ```https://kvufjplkf4.execute-api.us-east-1.amazonaws.com/dev/search?q="big e"&latitude="5"&longitude="7"``` | 
+| GET | ```https://11kyqx45f1.execute-api.us-east-1.amazonaws.com/dev/search?q=otti&latitude=5&longitude=7``` | 
 
 ### Donde:
 _q: Nombre de la ciudad a buscar_
