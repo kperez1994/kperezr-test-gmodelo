@@ -17,7 +17,7 @@ _q: Nombre de la ciudad a buscar_
 
 _latitude: latitud a buscar_
 
-_longitude: longitude a buscar_
+_longitude: longitud a buscar_
 
 ### Response
 ```
@@ -134,7 +134,9 @@ _Elasticsearch.postman_collection.json_
 _Permisos limitados a sólo lectura_
 
 Url consola: https://351551922524.signin.aws.amazon.com/console
+
 user: invitado_kperez
+
 password: TestInvitado#
 
 ### Autora
